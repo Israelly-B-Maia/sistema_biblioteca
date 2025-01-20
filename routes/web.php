@@ -13,6 +13,9 @@ Route::get('/', function () {
 Route::get('/biblioteca', function () {
     return view('pages.livros.administrador.biblioteca');
 });
+Route::get('/emprestar', function () {
+    return view('pages.livros.administrador.emprestar');
+});
 
 
 Route::get('/adicionarlivro', function () {

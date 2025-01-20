@@ -65,7 +65,8 @@
                                 <img src="images/logo.png" alt="Logo">
                             </div>
                         </div>
-                        <a class="nav-link" href="biblioteca" style="color: #343a40;">Empréstimo de livro</a>
+                        <a class="nav-link" href="biblioteca" style="color: #343a40;">Biblioteca</a>
+                        <a class="nav-link" href="emprestar" style="color: #343a40;">Empréstimo de livro</a>
                         <a class="nav-link" href="adicionarlivro" style="color: #343a40;">Adicionar Livro</a>
                         <a class="nav-link" href="cadastrarusuario" style="color: #343a40;">Cadastrar Usuário</a>
                         <div style="height: 2.5cm;"></div>

@@ -1,5 +1,5 @@
 <x-layout>
-    @section('title', 'Empréstimo de Livro')
+    @section('title', 'Biblioteca')
     <x-slot name="biblioteca">
         @yield('title')
     </x-slot>
